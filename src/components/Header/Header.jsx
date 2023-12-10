@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { useMediaQuery } from 'react-responsive';
 
-import carLogo from 'assets/rental-car-logo.png';
+import carLogo from 'assets/car-rental-logo.png';
 import { HeaderStyles, Logo, LogoImg } from './Header.styled';
 import MobileMenu from 'components/MobileMenu/MobileMenu';
 import Navigation from 'components/Navigation/Navigation';
